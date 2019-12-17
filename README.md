@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/85360b50-b9e0-4abe-86ba-69d74d1c4313/deploy-status)](https://app.netlify.com/sites/awesome-kalam-395688/deploys)
+
 # frontend
 
 ## Project setup
